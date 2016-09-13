@@ -1,4 +1,4 @@
 # hello-world
 Hello world repository.
 
-First repository with out jokes.
+Repository with training java code.
