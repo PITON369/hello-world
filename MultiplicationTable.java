@@ -6,7 +6,7 @@ Display the multiplication table of 10 to 10 as follows:
 …
 */
 
-public class Solution
+public class MultiplicationTable
 {
 public static void mnoz (int f) { 
 for (int t=1; t<f+1; t++) { 
